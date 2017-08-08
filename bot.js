@@ -31,7 +31,7 @@ bot.on('message', message => {
 
     if (command === 'random') {
         var r = randomInt(0, sounds.items.length);
-        logger.info(sounds.items[r]);
+        logger.debug(sounds.items[r]);
         playSound(message, sounds.items[r].file);
     }
     else if (command == 'dc') {
