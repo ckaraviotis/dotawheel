@@ -1,0 +1,31 @@
+{   
+    "items": [    
+        { "name": "all_dead", "file": "./sounds/Chatwheel_all_dead.wav" },
+        { "name": "ayayay", "file": "./sounds/Chatwheel_ay_ay_ay.wav" },
+        { "name": "bozhe", "file": "./sounds/Chatwheel_bozhe_ti_posmotri.wav" },
+        { "name": "brutal", "file": "./sounds/Chatwheel_brutal.wav" },
+        { "name": "charge", "file": "./sounds/Chatwheel_charge.wav" },
+        { "name": "crashnburn", "file": "./sounds/Chatwheel_crash_burn.wav" },
+        { "name": "cricket", "file": "./sounds/Chatwheel_cricket.wav" },
+        { "name": "crybaby", "file": "./sounds/Chatwheel_crybaby.wav" },
+        { "name": "disastah", "file": "./sounds/Chatwheel_disastah.wav" },
+        { "name": "drumroll", "file": "./sounds/Chatwheel_drum_roll.wav" },
+        { "name": "gg", "file": "./sounds/Chatwheel_ehto_g_g.wav" },
+        { "name": "prosto", "file": "./sounds/Chatwheel_eto_prosto_netchto.wav" },
+        { "name": "frog", "file": "./sounds/Chatwheel_frog.wav" },
+        { "name": "headshake", "file": "./sounds/Chatwheel_headshake.wav" },
+        { "name": "jia", "file": "./sounds/Chatwheel_jia_you.wav" },
+        { "name": "patience", "file": "./sounds/Chatwheel_patience.wav" },
+        { "name": "poliang", "file": "./sounds/Chatwheel_po_liang_lu.wav" },
+        { "name": "rimshot", "file": "./sounds/Chatwheel_rimshot.wav" },
+        { "name": "sad", "file": "./sounds/Chatwheel_sad_bone.wav" },
+        { "name": "sproing", "file": "./sounds/Chatwheel_sproing.wav" },
+        { "name": "tian", "file": "./sounds/Chatwheel_tian_huo.wav" },
+        { "name": "wan", "file": "./sounds/Chatwheel_wan_bu_liao_la.wav" },
+        { "name": "wow", "file": "./sounds/Chatwheel_wow.wav" },
+        { "name": "zhil", "file": "./sounds/Chatwheel_zhil_do_konsta.wav" },
+        { "name": "zou", "file": "./sounds/Chatwheel_zou_hao_bu_song.wav" },
+        { "name": "crowd_1", "file": "./sounds/Crowd_lv_01.wav" },
+        { "name": "crowd_2", "file": "./sounds/Crowd_lv_02.wav" }
+    ] 
+}
